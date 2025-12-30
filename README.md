@@ -1,8 +1,5 @@
 *** Pseudocode - XOR Sayı Üreteci Algoritması ***
-PROGRAM XOR_Sayı_Üreteci
-BEGIN
-    PRINT "=== Gelişmiş XOR ve Sayı Üretici ==="
-    
+
     TRY
         // Kullanıcı girdileri
         seed_val ← INTEGER(INPUT("Seed değeri girin (0-100): "))
